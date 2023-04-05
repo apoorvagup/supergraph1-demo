@@ -20,3 +20,4 @@ RUN echo "rover:rover" | chpasswd
 
 USER rover
 RUN curl -sSL https://rover.apollo.dev/nix/latest | sh
+RUN echo $PATH
