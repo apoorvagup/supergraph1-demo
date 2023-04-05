@@ -4,8 +4,8 @@ subgraphs:
   products:
     routing_url: https://products-graphql-dot-graphql-demo-380814.nw.r.appspot.com
     schema:
-      file: ../subgraphs/products/products.graphql
+      file: ./subgraphs/products.graphql
   reviews:
     routing_url: https://reviews-graphql-dot-graphql-demo-380814.nw.r.appspot.com
     schema:
-      file: ../subgraphs/reviews/reviews.graphql
+      file: ./subgraphs/reviews.graphql

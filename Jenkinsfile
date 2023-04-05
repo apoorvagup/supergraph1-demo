@@ -22,5 +22,6 @@ pipeline {
     SUPERGRAPH_SCHEMA_PATH = 'demo-supergraph1.graphql'
     APOLLO_GRAPH_REF = 'apoorva-guptas-team-demo-gc@main'
     SUPERGRAPH_CONFIG_PATH = 'demo-super.yaml'
+    APOLLO_CONFIG_HOME = './tmp/config/rover'
   }
 }
